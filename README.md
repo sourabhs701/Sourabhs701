@@ -33,6 +33,6 @@ I am currently looking for new roles as a:
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhs701&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhs701&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
 </p>
 
