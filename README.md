@@ -1,29 +1,25 @@
 
-# Hi, I'm Jasleen! 👋
+# Hi, I'm Sourabh! 👋
 
   
 ## 🚀 About Me
-I'm an aspiring Data Scientist📊, Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I paint 🎨 and read 📚. <br>
+I'm an aspiring Data Scientist📊, Anything related to numbers exites me more than anything. <br>
 
 I am currently looking for new roles as a:
 - Data Scientist
 - Data Analyst
-- Business Analyst 
 - Data Engineer 
-- Product Analyst
+- Equity Researcher
 
   
 ## 🛠 My Skills include...
 - Python 🐍
+- Java
 - R 🖥️
-- Data Visualization: Power BI, Excel, Basics of Tableau, Seaborn, Matplotlib and ggplot2 📈
+- Data Visualization: Power BI, Excel, Basics of Tableau, Matplotlib 📈
 - Machine Learning 🤖
-- NLP 🔊🗣️
-- Git and Version Control 🛠️
-- Cloud Computing: AWS and Azure 💭
 - HTML+ CSS and Basics of JS 🌐
 - SQL and NoSQL 🗃️
-- MATLAB 🧮
 
   
 ## 🔗 Links
