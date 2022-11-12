@@ -13,13 +13,13 @@ I am currently looking for new roles as a:
 
   
 ## 🛠 My Skills include...
-- Python 🐍
+- Python 
 - Java
-- R 🖥️
+- R 
 - Data Visualization: Power BI, Excel, Basics of Tableau, Matplotlib 📈
-- Machine Learning 🤖
-- HTML+ CSS and Basics of JS 🌐
-- SQL and NoSQL 🗃️
+- Machine Learning 
+- HTML+ CSS and Basics of JS 
+- SQL and NoSQL 
 
   
 ## 🔗 Links
