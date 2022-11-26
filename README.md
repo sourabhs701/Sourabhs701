@@ -2,7 +2,7 @@
 # Hi, I'm Sourabh! 👋
 
   
-## 🚀 About Me
+## About Me
 I'm an aspiring Data Scientist📊, Anything related to numbers exites me more than anything. <br>
 
 I am currently looking for new roles as a:
@@ -12,7 +12,7 @@ I am currently looking for new roles as a:
 - Equity Researcher
 
   
-## 🛠 My Skills include...
+## Skills...
 - Python 
 - Java
 - R 
