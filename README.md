@@ -31,8 +31,3 @@ I am currently looking for new roles as a:
   <img alt="Medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a> &nbsp;&nbsp; 
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhs701&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhs701&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
-</p>
-
