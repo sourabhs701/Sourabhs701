@@ -1,11 +1,8 @@
 # Hi, I'm Sourabh Soni! 👋
 
 ## About Me
-I'm an aspiring Data Scientist with a strong passion for anything related to numbers and data. I'm currently seeking roles such as:
-- Data Scientist
-- Data Analyst
-- Data Engineer
-- Equity Researcher
+Enthusiastic AI/ML engineer with expertise in data preprocessing, predictive analytics, model optimization and data
+analysis. Proven experience in optimizing machine learning models and developing user-friendly applications.bvcxz
 
 ## 🔧 Experience
 ### Python Developer Intern - NeuroNexus Innovations
@@ -37,10 +34,10 @@ I'm an aspiring Data Scientist with a strong passion for anything related to num
 - Certified in Excel Fundamentals – Formulas for Finance from CFI.
 
 ## ⚡ Technical Skills
-- **Programming Languages**: Python, Java, C++, SQL, NoSQL, JavaScript.
+- **Programming Languages**: Python, Java, C++, Javascript.
 - **Data Visualization**: Power BI, Excel, basic Tableau, Matplotlib.
 - **Coursework Knowledge**: Data Structures and Algorithms, Computer Networks, DBMS, Operating Systems.
-- **Machine Learning**: Experience in building ML models.
+- **Machine Learning FrameWork**: TensorFlow, Keras.
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhs701/)
