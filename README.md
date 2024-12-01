@@ -2,15 +2,7 @@
 
 ## About Me
 Enthusiastic AI/ML engineer with expertise in data preprocessing, predictive analytics, model optimization and data
-analysis. Proven experience in optimizing machine learning models and developing user-friendly applications.bvcxz
-
-## 🔧 Experience
-### Python Developer Intern - NeuroNexus Innovations
-*Dec 2023 - Feb 2024 (Remote, Jaipur)*
-- Enhanced code quality through comprehensive testing and debugging.
-- Optimized application performance using efficient algorithms and data structures.
-- Developed user-friendly interfaces for better usability.
-- Streamlined development with version control using Git.
+analysis. Proven experience in optimizing machine learning models and developing user-friendly applications.
 
 ## 💻 Projects
 ### [MakeThumb.com](http://makethumb.com) *(In progress)*
