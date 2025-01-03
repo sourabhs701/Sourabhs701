@@ -1,44 +1,52 @@
 # Hi, I'm Sourabh Soni! 👋
 
 ## About Me
-Enthusiastic AI/ML engineer with expertise in data preprocessing, predictive analytics, model optimization and data
-analysis. Proven experience in optimizing machine learning models and developing user-friendly applications.
+Experienced Software developer with expertise in Full-stack development, API design and cloud architecture. Proven track record of developing scalable web applications and implementing advanced AI-driven solutions. Passionate about creating efficient, user-centric technological solutions that drive business value.
 
 ## 💻 Projects
-### [MakeThumb.com](http://makethumb.com) *(In progress)*
-- **Technologies**: Next.js, MySQL, S3 Bucket, OpenAI API.
-- An AI-powered tool that generates custom YouTube thumbnails in seconds and allows script-based chat functionality.
 
-### [Image Recommendation System](https://github.com/sourabhs701/Image-recommendation-system)
-- **Technologies**: Python, TensorFlow Keras, NumPy, Streamlit.
-- A fashion recommendation system using ResNet50 (74.9% accuracy) and Nearest Neighbor (Euclidean Distance) for clothing suggestions.
+### [MakeThumb.com](http://makethumb.com) - AI-Powered Automation Tool
+- **Technologies**: MERN Stack, AWS S3, Cloudflare CDN, Gemini Flash 1.5, Sonnet 3.5
+- Built a scalable platform serving 1K+ monthly users via Cloudflare CDN
+- Built a robust PDF-to-JSON parser optimized for Application Tracking System (ATS) compatibility
+- Integrated advanced AI models for precise data extraction and content transformation
+- Achieved 99.9% uptime with cloud-based infrastructure
 
-### [Crypto Portfolio Tracker](https://github.com/sourabhs701/Crypto-Portfolio-Tracker)
-- **Technologies**: Java, MySQL, API.
-- A portfolio tracker that maintains a database of investments and calculates profit or loss based on real-time cryptocurrency data.
+### [RTC Connect](https://github.com/sourabhs701) - Real-time Chat Application
+- **Technologies**: Socket.IO, Node.js, Redis
+- Designed and deployed a scalable messaging system handling 50+ concurrent users
+- Implemented Redis pub/sub for message queuing, delivery receipts, and presence detection
+
+### [GitHorizon](https://marketplace.visualstudio.com/items?itemName=sourabhsoni.githorizon) - VS Code Extension
+- **Technologies**: VS Code API
+- 100% Integration with VS Code's native interface for seamless usability
+- Visualized over 1,000+ commits across various repositories during testing
 
 ## 🎓 Education
-- **Masters in Computer Application (MCA)**, Rajasthan Technical University (May 2023 - June 2025)
-- **Bachelors in Computer Application (BCA)**, University of Rajasthan (May 2019 - June 2022)
+- **Masters in Computer Application (MCA)**, Rajasthan Technical University (2023-2025)
+  - CGPA: 8.21/10
+- **Bachelors in Computer Application (BCA)**, University of Rajasthan (2019-2022)
+  - CGPA: 7.09/10
 
-## 🏆 Achievements
-- HackerRank (5⭐) in Problem Solving and 420+ points in Python.
-- Certified in Excel Fundamentals – Formulas for Finance from CFI.
+## 🏆 Achievements & Certifications
+- HackerRank (5⭐) Problem Solving Certificate with 420+ points in Python
+- Certified in Excel Fundamentals – Formulas for Finance (CFI, 2023)
+- Analyzing and Visualizing using R Programming (DataScienceLab, 2023)
 
 ## ⚡ Technical Skills
-- **Programming Languages**: Python, Java, C++, Javascript.
-- **Data Visualization**: Power BI, Excel, basic Tableau, Matplotlib.
-- **Coursework Knowledge**: Data Structures and Algorithms, Computer Networks, DBMS, Operating Systems.
-- **Machine Learning FrameWork**: TensorFlow, Keras.
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Languages**: C++, JavaScript, Python
+- **Backend**: Node.js, Express
+- **Frontend**: React.js
+- **Cloud & DevOps**: AWS, Docker
+- **Version Control**: GitHub, Git
+- **Web Technologies**: MERN Stack, WebSocket
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhs701/)
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourabhs701)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sourabhs701.github.io/Sourabh-Work/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sourabhs701)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sourabh-work/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sourabhs701)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sourabh.eth)
 
 ---
-
-Feel free to explore my projects, and reach out to me for collaborations or opportunities!
+📧 Feel free to reach out to me at sourabhs701@gmail.com for collaborations or opportunities!
