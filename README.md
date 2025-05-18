@@ -154,66 +154,6 @@ I'm a **Full-Stack Developer** specialized in building **scalable web applicatio
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🎓 Education & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Education</h3>
-        <ul align="left">
-          <li><strong>Masters in Computer Application (MCA)</strong><br>Rajasthan Technical University (2023-2025)<br>CGPA: 8.21/10</li>
-          <li><strong>Bachelors in Computer Application (BCA)</strong><br>University of Rajasthan (2019-2022)<br>CGPA: 7.09/10</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>Certifications & Achievements</h3>
-        <ul align="left">
-          <li>HackerRank (5⭐) Problem Solving Certificate with 420+ points in Python</li>
-          <li>Certified in Excel Fundamentals – Formulas for Finance (CFI, 2023)</li>
-          <li>Analyzing and Visualizing using R Programming (DataScienceLab, 2023)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhs701&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhs701&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhs701&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!-- -------------------------------------------------------------------------------------- -->
-<!-- Testimonials -->
-<!-- -------------------------------------------------------------------------------------- -->
-
-## 💬 What People Say
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <p><i>"Sourabh is an exceptional developer with a keen eye for detail. His ability to solve complex problems efficiently is truly impressive."</i></p>
-        <p>— Project Manager</p>
-      </td>
-      <td width="50%" align="center">
-        <p><i>"Working with Sourabh was a pleasure. He delivered the project on time and exceeded our expectations with the quality of his work."</i></p>
-        <p>— Client</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 📬 Let's Connect!
 
 <div align="center">
