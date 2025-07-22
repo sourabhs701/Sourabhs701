@@ -5,7 +5,7 @@
     </a>
   </h1>
 
-  <p><strong>Minimalist. Builder. Always shipping.</strong></p>
+  <p><strong>Indie Hacker. Always shipping.</strong></p>
 
   <a href="https://github.com/sourabhs701">
     <img src="https://img.shields.io/github/followers/sourabhs701?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -14,17 +14,6 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=sourabhs701&labelColor=0a0209&countColor=0969DA&labelStyle=upper" />
   </a>
 
-  <br /><br />
-
-  <a href="https://srb.codes/">
-    <img src="https://img.shields.io/badge/Visit-srb.codes-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/sourabhs701">
-    <img src="https://img.shields.io/badge/GitHub-Commits-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sourabhs701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 ---
@@ -32,15 +21,17 @@
 ## ✨ About Me
 
 Hey, I’m **Sourabh Soni** — also known as **SRB**.  
-I’m building things that speak louder than resumes.  
-You can explore my work and ethos over at **[srb.codes](https://srb.codes/)**.
+You can explore my work and ethos over at **[srb.codes](https://srb.codes/)**.<br/>
+HMU on **[x/srbcode](https://x.com/srbcode)**.
 
-- 🧠 Thinking in code, shipping in public  
-- 🧩 Contributor by day, creator by night  
-- 📍 Jaipur, India
+- 🧠 Thinking in code. Shipping in public.
+
+- 🧩 Contributor by day, creator by night.
+
+- 🌍 From Jaipur, building for the world.
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sourabhs701/count.svg" />
-  <p>Thanks for stopping by! Let’s create something cool together.</p>
+  <p>Thank you for investing in <strong>SRB Corp</strong>.</p>
 </div>
+
